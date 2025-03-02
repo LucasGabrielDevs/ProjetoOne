@@ -11,8 +11,12 @@ export default function Entrada () {
             <View>
 
 
+                <View>
 
-asdad
+
+                    
+                </View>
+
 
 
             </View>
