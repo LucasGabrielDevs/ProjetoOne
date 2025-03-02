@@ -12,7 +12,7 @@ export default function Entrada () {
 
 
 
-
+asdad
 
 
             </View>
