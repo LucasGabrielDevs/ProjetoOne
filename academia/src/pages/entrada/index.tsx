@@ -15,7 +15,7 @@ export default function Entrada () {
 
                     <Text>
 
-                        eae parca asda d
+                        eae parca asda d sdaSA
                     </Text>
 
                 </View>
