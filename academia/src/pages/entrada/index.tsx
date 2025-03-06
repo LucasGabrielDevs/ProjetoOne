@@ -15,10 +15,10 @@ export default function Entrada () {
                 <Image source={logo} />
         </View>
         <View style={Style.meio}>
-        <Text>eee</Text>
+        <Text>teste</Text>
         </View>
         <View style={Style.baixo}>
-        <Text>eee</Text>
+        <Text>teste</Text>
         </View>
     
     </View>
