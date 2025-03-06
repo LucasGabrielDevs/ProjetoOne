@@ -1,6 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import Entrada from './src/pages/entrada';
+// essa funcao e exportada de index.ts
+
 
 export default function App() {
   return (

@@ -1,5 +1,6 @@
-import { StyleSheet, TouchableOpacity } from "react-native";
+import { StyleSheet } from "react-native";
 
+// esse codigo exporta o css da pagina App.ts para ca 
 export const Style = StyleSheet.create({
 
     topo:{

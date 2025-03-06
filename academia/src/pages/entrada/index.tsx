@@ -1,8 +1,10 @@
 import React from "react";
-import {Text, View, TextInput, Image} from "react-native"
+import {Text, View, TextInput, Image} from "react-native" 
 import { Style } from "./styles";
-import logo from '../../assets/logo.jpg'
+// esse codigo exporta o css dessa pagina para a pagina q eu criar EX: styles.ts
+import logo from '../../assets/logo.jpg' 
 
+// exportamos essa funcao para dentro de App.tsx, essa funcao tem os compomentes 
 export default function Entrada () {
 
  return (
